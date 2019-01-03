@@ -8,7 +8,7 @@ const Content = withRouter((props) => (
   </div>
 ));
 
-export default (props) => (
+export default () => (
   <Layout>
     <Content/>
   </Layout>

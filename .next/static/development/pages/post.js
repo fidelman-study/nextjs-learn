@@ -9972,7 +9972,7 @@ var Content = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(fun
     __self: this
   }, "This is the blog post content."));
 });
-/* harmony default export */ __webpack_exports__["default"] = (function (props) {
+/* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_MyLayout__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
